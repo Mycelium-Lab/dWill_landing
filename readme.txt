@@ -1,1 +1,1 @@
-Landong page for the dWill.app project.
+Landing page for the dWill.app project.
